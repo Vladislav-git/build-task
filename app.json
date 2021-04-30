@@ -1,0 +1,20 @@
+{
+  "name": "payments",
+  "displayName": "payments",
+  "expo": {
+    "name": "payments",
+    "slug": "payments",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.cnq.payments",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.cnq.payments",
+      "buildNumber": "1.0.0"
+    }
+  }
+}
